@@ -1,2 +1,2 @@
 # File nuovo
-print("Ciao")
+print("6dyrsdtrdytfuytfuytytug")
